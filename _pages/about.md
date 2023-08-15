@@ -83,7 +83,7 @@ My research interests include computer vision and deep learning, especially in t
 
 # -
 
-**Contact:** zhixuanli at pku.edu.cn, zhixuanli520 at gmail.com
+**Contact:** xueying003@e.ntu.edu.sg
 
 **Last Update:** August 15, 2023
 
