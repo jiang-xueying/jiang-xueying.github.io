@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first year Ph.D. student at <a href="https://www.ntu.edu.sg/s-lab">S-Lab for Advanced Intelligence</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, supervised by Assoc. Prof. <a href="https://personal.ntu.edu.sg/shijian.lu/index.htm">Lu Shijian</a>. I received my B.S. degree from <a href="https://www.pku.edu.cn/">Peking University</a> in 2022, supervised by Assoc. Prof. <a href="http://www.vie.group/ttj">Jiang Tingting</a>.
+I am a second year Ph.D. student at <a href="https://www.ntu.edu.sg/s-lab">S-Lab for Advanced Intelligence</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, supervised by Assoc. Prof. <a href="https://personal.ntu.edu.sg/shijian.lu/index.htm">Lu Shijian</a>. I received my B.S. degree from <a href="https://www.pku.edu.cn/">Peking University</a> in 2022, supervised by Assoc. Prof. <a href="http://www.vie.group/ttj">Jiang Tingting</a>.
 
 My research interests include computer vision and deep learning, especially in the fields of 3D object detection, domain generalization, and semantic segmentation.
 
@@ -81,7 +81,7 @@ My research interests include computer vision and deep learning, especially in t
 
 - Teaching Assistant: SC2002/CE2002/CZ2002 Object Oriented Design & Programming, NTU, 2023 Spring
 
-# -
+
 
 **Contact:** xueying003@e.ntu.edu.sg
 
