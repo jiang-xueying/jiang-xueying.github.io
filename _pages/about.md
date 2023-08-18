@@ -79,7 +79,7 @@ My research interests include computer vision and deep learning, especially in t
 
 # 👩‍🏫 Teaching
 
-- Teaching Assistant: SC2002/CE2002/CZ2002 Object Oriented Design & Programming, NTU, 2023 Spring
+- Teaching Assistant: SC2002/CE2002/CZ2002 Object Oriented Design & Programming, NTU, 2023 Spring, 2023 Fall
 
 
 
