@@ -24,7 +24,7 @@ My research interests include computer vision and deep learning, especially in t
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2023.07*: Two papers were accepted by <b>ICCV 2023!</b>
+- *2023.07*: Two papers are accepted by <b>ICCV 2023!</b>
 
 <span class='anchor' id='publications'></span>
 
