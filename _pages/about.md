@@ -32,43 +32,41 @@ My research interests include computer vision and deep learning, especially in t
 
 [//]: # (----------- ICCV 2023 -------------------------)
 
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/2023_ICCV_MUVA.jpg' alt="sym" width="100%"></div></div>)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23_Domain.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[//]: # ()
-[//]: # (<div class='paper-box-text' markdown="1">)
+[Domain Generalization via Balancing Training Difficulty and Model Capability]() 
 
-[//]: # ()
-[//]: # ()
-[//]: # ([MUVA: A New Large-Scale Benchmark for Multi-view Amodal Instance Segmentation in the Shopping Scenario]&#40;&#41; )
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
-[//]: # ()
-[//]: # ()
-[//]: # ([//]: # &#40;<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>&#41;)
-[//]: # ()
-[//]: # (<u><b>Zhixuan Li</b></u>, Weining Ye, Juan Terven, Zachary Bennett, Ying Zheng, Tingting Jiang, Tiejun Huang)
+<u><b>Xueying Jiang</b></u>, Jiaxing Huang, Sheng Jin, Shijian Lu
 
-[//]: # ()
-[//]: # ()
-[//]: # (<i>ICCV, 2023 &#40;EI, CCF A&#41;</i>)
+<i>ICCV, 2023</i>
 
-[//]: # ()
-[//]: # ()
-[//]: # (<a href="">paper</a> /)
+<a href="https://arxiv.org/pdf/2309.00844.pdf">paper</a> 
 
-[//]: # ()
-[//]: # (<a href="https://zhixuanli.github.io/project_2023_ICCV_MUVA/">project</a> /)
+</div>
+</div>
 
-[//]: # ()
-[//]: # (<a href="">bibtex</a>)
 
-[//]: # ()
-[//]: # ()
-[//]: # (</div>)
+[//]: # (----------- ICCV 2023 -------------------------)
 
-[//]: # ()
-[//]: # (</div>)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23_Black.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[//]: # (-----------------------------------------------)
+[Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory]() 
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
+
+<i>ICCV, 2023</i>
+
+<a href="https://arxiv.org/pdf/2308.13236.pdf">paper</a> 
+
+</div>
+</div>
+
 
 
 <span class='anchor' id='education'></span>
