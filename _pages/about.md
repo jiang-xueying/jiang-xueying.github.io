@@ -81,7 +81,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 
 
 
-**Contact:** xueying003@e.ntu.edu.sg
+[//]: # (**Contact:** xueying003@e.ntu.edu.sg)
 
 **Last Update:** September 9, 2023
 
