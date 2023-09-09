@@ -83,7 +83,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 
 **Contact:** xueying003@e.ntu.edu.sg
 
-**Last Update:** August 15, 2023
+**Last Update:** September 9, 2023
 
 Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
 
