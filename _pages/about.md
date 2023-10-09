@@ -78,7 +78,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 
 <span class='anchor' id='service'></span>
 # 💻 Service
-- Reviewer of TCSVT
+- Reviewer of IEEE TCSVT
 
 
 <span class='anchor' id='teaching'></span>
@@ -89,7 +89,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 
 [//]: # (**Contact:** xueying003@e.ntu.edu.sg)
 
-**Last Update:** September 9, 2023
+**Last Update:** October 9, 2023
 
 Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
 
