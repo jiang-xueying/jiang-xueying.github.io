@@ -75,9 +75,13 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 - *2022.08 - Present:* Doctor of Philosophy, School of Computer Science and Engineering, Nanyang Technological University
 - *2018.09 - 2022.07:* Bachelor in Intelligence Science and Technology, School of Electronics Engineering and Computer Science, Peking University
 
+
+<span class='anchor' id='service'></span>
 # 💻 Service
 - Reviewer of TCSVT
 
+
+<span class='anchor' id='teaching'></span>
 # 👩‍🏫 Teaching
 - Teaching Assistant: SC2002/CE2002/CZ2002 Object Oriented Design & Programming, NTU, 2023 Spring, 2023 Fall
 
