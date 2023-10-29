@@ -78,6 +78,10 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 
 <span class='anchor' id='service'></span>
 # 💻 Service
+## Conference Reviewer
+- Reviewer of CVPR 2023
+
+## Journal Reviewer
 - Reviewer of IEEE TCSVT
 
 
@@ -89,7 +93,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 
 [//]: # (**Contact:** xueying003@e.ntu.edu.sg)
 
-**Last Update:** October 9, 2023
+**Last Update:** October 29, 2023
 
 Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
 
