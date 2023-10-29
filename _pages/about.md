@@ -79,7 +79,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 <span class='anchor' id='service'></span>
 # 💻 Service
 ## Conference Reviewer
-- Reviewer of CVPR 2023
+- Reviewer of CVPR 2024
 
 ## Journal Reviewer
 - Reviewer of IEEE TCSVT
