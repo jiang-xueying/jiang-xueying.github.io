@@ -95,7 +95,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 
 **Last Update:** October 29, 2023
 
-Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
+[//]: # (Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>)
 
 
 [//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UA1prgTfM8f4KdsTtZDKPAqAagf4Sr6L0d9xRVyOdrE&cl=ffffff&w=300"></script>)
