@@ -32,7 +32,7 @@ My research interests include computer vision and deep learning, especially in t
 
 [//]: # (----------- ICCV 2023 -------------------------)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23_Domain.jpg' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23_Domain.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Domain Generalization via Balancing Training Difficulty and Model Capability](https://arxiv.org/pdf/2309.00844.pdf) 
@@ -51,7 +51,7 @@ My research interests include computer vision and deep learning, especially in t
 
 [//]: # (----------- ICCV 2023 -------------------------)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23_Black.jpg' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23_Black.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory](https://arxiv.org/pdf/2308.13236.pdf) 
