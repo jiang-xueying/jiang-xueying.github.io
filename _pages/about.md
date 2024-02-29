@@ -24,6 +24,8 @@ My research interests include computer vision and deep learning, especially in t
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.02*: One paper is accepted by <b>CVPR 2024!</b>
+- *2024.01*: One paper is accepted by <b>ICLR 2024!</b>
 - *2023.07*: Two papers are accepted by <b>ICCV 2023!</b>
 
 <span class='anchor' id='publications'></span>
@@ -79,7 +81,8 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 <span class='anchor' id='service'></span>
 # 💻 Service
 ## Conference Reviewer
-- Reviewer of CVPR 2024
+- Reviewer of CVPR 2024, ECCV 2024, ACM MM 2024
+
 
 ## Journal Reviewer
 - Reviewer of IEEE TCSVT
@@ -93,7 +96,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 
 [//]: # (**Contact:** xueying003@e.ntu.edu.sg)
 
-**Last Update:** October 29, 2023
+**Last Update:** February, 2024
 
 [//]: # (Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>)
 
