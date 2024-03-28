@@ -45,7 +45,7 @@ My research interests include computer vision and deep learning, especially in t
 
 <i>CVPR, 2024</i>
 
-<a href="https://arxiv.org/pdf/2402.19144v1.pdf">paper</a> 
+<a href="https://arxiv.org/pdf/2402.19144v1.pdf">paper</a>
 / <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:moALDE4PswwJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZIsOPo:AFWwaeYAAAAAZgUqIPpQSQV2fVa-6ed5aZSvJ3I&scisig=AFWwaeYAAAAAZgUqIDByyy45dadIt0ChmKllbZ4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1">bibtex</a>
 
 </div>
