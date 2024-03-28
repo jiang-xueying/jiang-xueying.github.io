@@ -45,7 +45,8 @@ My research interests include computer vision and deep learning, especially in t
 
 <i>ICCV, 2023</i>
 
-<a href="https://arxiv.org/pdf/2309.00844.pdf">paper</a> 
+<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Domain_Generalization_via_Balancing_Training_Difficulty_and_Model_Capability_ICCV_2023_paper.pdf">paper</a> 
+/ <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5gL376gUHzIJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZIhKPA:AFWwaeYAAAAAZgUnMPC52fMh_EcAJtEcypRnKxs&scisig=AFWwaeYAAAAAZgUnMKRoBRXcwRGUtBanbtSqAj4&scisf=4&ct=citation&cd=-1&hl=zh-CN">bibtex</a>
 
 </div>
 </div>
@@ -64,7 +65,8 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 
 <i>ICCV, 2023</i>
 
-<a href="https://arxiv.org/pdf/2308.13236.pdf">paper</a> 
+<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Black-Box_Unsupervised_Domain_Adaptation_with_Bi-Directional_Atkinson-Shiffrin_Memory_ICCV_2023_paper.pdf">paper</a> 
+/ <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:DQyhCuCL9MQJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZIhZS4:AFWwaeYAAAAAZgUnfS5QfVnxwGt3ip7uhOQruQc&scisig=AFWwaeYAAAAAZgUnfcLjX7jlO-F1n0eHAKB1wGs&scisf=4&ct=citation&cd=-1&hl=zh-CN">bibtex</a>
 
 </div>
 </div>
