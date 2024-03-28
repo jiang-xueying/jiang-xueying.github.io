@@ -32,12 +32,53 @@ My research interests include computer vision and deep learning, especially in t
 
 # 📝 Publications 
 
+[//]: # (----------- CVPR 2024 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/ICCV23_Domain.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Domain Generalization via Balancing Training Difficulty and Model Capability](https://arxiv.org/pdf/2309.00844.pdf) 
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+<u><b>Xueying Jiang</b></u>, Jiaxing Huang, Sheng Jin, Shijian Lu
+
+<i>ICCV, 2023</i>
+
+<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Domain_Generalization_via_Balancing_Training_Difficulty_and_Model_Capability_ICCV_2023_paper.pdf">paper</a> 
+/ <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5gL376gUHzIJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZIhKPA:AFWwaeYAAAAAZgUnMPC52fMh_EcAJtEcypRnKxs&scisig=AFWwaeYAAAAAZgUnMKRoBRXcwRGUtBanbtSqAj4&scisf=4&ct=citation&cd=-1&hl=zh-CN">bibtex</a>
+
+</div>
+</div>
+
+
+[//]: # (----------- ICLR 2024 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24_LLMs.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors](https://arxiv.org/pdf/2402.04630.pdf) 
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+Sheng Jin, <u><b>Xueying Jiang</b></u>, Jiaxing Huang, Lewei Lu, Shijian Lu
+
+
+<i>ICLR, 2024</i>
+
+<a href="https://arxiv.org/pdf/2402.04630.pdf">paper</a> 
+/ <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:tIs2tiTdEGMJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZIveb8:AFWwaeYAAAAAZgUpYb81GuhlOE-3_pK8pWbB1XU&scisig=AFWwaeYAAAAAZgUpYYrHgQbAkiXe8AgaedXYtYQ&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1">bibtex</a>
+
+</div>
+</div>
+
+
 [//]: # (----------- ICCV 2023 -------------------------)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23_Domain.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Domain Generalization via Balancing Training Difficulty and Model Capability](https://arxiv.org/pdf/2309.00844.pdf) 
+[Domain Generalization via Balancing Training Difficulty and Model Capability](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Domain_Generalization_via_Balancing_Training_Difficulty_and_Model_Capability_ICCV_2023_paper.pdf) 
 
 [//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
@@ -57,7 +98,7 @@ My research interests include computer vision and deep learning, especially in t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23_Black.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory](https://arxiv.org/pdf/2308.13236.pdf) 
+[Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Black-Box_Unsupervised_Domain_Adaptation_with_Bi-Directional_Atkinson-Shiffrin_Memory_ICCV_2023_paper.pdf) 
 
 [//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
@@ -83,7 +124,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 <span class='anchor' id='service'></span>
 # 💻 Service
 ## Conference Reviewer
-- Reviewer of CVPR 2024
+- Reviewer of CVPR 2024, ECCV 2024, MM 2024
 
 
 ## Journal Reviewer
@@ -98,7 +139,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 
 [//]: # (**Contact:** xueying003@e.ntu.edu.sg)
 
-**Last Update:** February, 2024
+**Last Update:** March, 2024
 
 [//]: # (Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>)
 
