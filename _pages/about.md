@@ -34,19 +34,19 @@ My research interests include computer vision and deep learning, especially in t
 
 [//]: # (----------- CVPR 2024 -------------------------)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/ICCV23_Domain.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_Weakly.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Domain Generalization via Balancing Training Difficulty and Model Capability](https://arxiv.org/pdf/2309.00844.pdf) 
+[Weakly Supervised Monocular 3D Detection with a Single-View Image](https://arxiv.org/pdf/2402.19144v1.pdf) 
 
 [//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
-<u><b>Xueying Jiang</b></u>, Jiaxing Huang, Sheng Jin, Shijian Lu
+<u><b>Xueying Jiang</b></u>, Sheng Jin, Lewei Lu, Xiaoqin Zhang, Shijian Lu
 
-<i>ICCV, 2023</i>
+<i>CVPR, 2024</i>
 
-<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Domain_Generalization_via_Balancing_Training_Difficulty_and_Model_Capability_ICCV_2023_paper.pdf">paper</a> 
-/ <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5gL376gUHzIJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZIhKPA:AFWwaeYAAAAAZgUnMPC52fMh_EcAJtEcypRnKxs&scisig=AFWwaeYAAAAAZgUnMKRoBRXcwRGUtBanbtSqAj4&scisf=4&ct=citation&cd=-1&hl=zh-CN">bibtex</a>
+<a href="https://arxiv.org/pdf/2402.19144v1.pdf">paper</a> 
+/ <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:moALDE4PswwJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZIsOPo:AFWwaeYAAAAAZgUqIPpQSQV2fVa-6ed5aZSvJ3I&scisig=AFWwaeYAAAAAZgUqIDByyy45dadIt0ChmKllbZ4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1">bibtex</a>
 
 </div>
 </div>
