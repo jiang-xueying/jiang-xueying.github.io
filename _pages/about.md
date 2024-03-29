@@ -46,7 +46,7 @@ My research interests include computer vision and deep learning, especially in t
 <i>CVPR, 2024</i>
 
 <a href="https://arxiv.org/pdf/2402.19144v1.pdf">paper</a>
-/ <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:moALDE4PswwJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZIsOPo:AFWwaeYAAAAAZgUqIPpQSQV2fVa-6ed5aZSvJ3I&scisig=AFWwaeYAAAAAZgUqIDByyy45dadIt0ChmKllbZ4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1">bibtex</a>
+/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jiang2024weakly.html">bibtex</a>
 
 </div>
 </div>
@@ -67,7 +67,7 @@ Sheng Jin, <u><b>Xueying Jiang</b></u>, Jiaxing Huang, Lewei Lu, Shijian Lu
 <i>ICLR, 2024</i>
 
 <a href="https://arxiv.org/pdf/2402.04630.pdf">paper</a> 
-/ <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:tIs2tiTdEGMJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZIveb8:AFWwaeYAAAAAZgUpYb81GuhlOE-3_pK8pWbB1XU&scisig=AFWwaeYAAAAAZgUpYYrHgQbAkiXe8AgaedXYtYQ&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1">bibtex</a>
+/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jin2024llms.html">bibtex</a>
 
 </div>
 </div>
@@ -87,7 +87,7 @@ Sheng Jin, <u><b>Xueying Jiang</b></u>, Jiaxing Huang, Lewei Lu, Shijian Lu
 <i>ICCV, 2023</i>
 
 <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Domain_Generalization_via_Balancing_Training_Difficulty_and_Model_Capability_ICCV_2023_paper.pdf">paper</a> 
-/ <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5gL376gUHzIJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZIte0I:AFWwaeYAAAAAZgUrY0Ko1QXOT1OcVT68U6OLIxI&scisig=AFWwaeYAAAAAZgUrY0fEQBqyO-wZlNulfNec1o4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1">bibtex</a>
+/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jiang2023domain.html">bibtex</a>
 
 </div>
 </div>
@@ -107,7 +107,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 <i>ICCV, 2023</i>
 
 <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Black-Box_Unsupervised_Domain_Adaptation_with_Bi-Directional_Atkinson-Shiffrin_Memory_ICCV_2023_paper.pdf">paper</a> 
-/ <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:DQyhCuCL9MQJ:scholar.google.com/&output=citation&scisdr=ClErLFgKEMGWxZItIys:AFWwaeYAAAAAZgUrOytCkcNDkYZLYVWlAKXbuXg&scisig=AFWwaeYAAAAAZgUrO8n8wEfbaDc0YxjlxhYh7tg&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1">bibtex</a>
+/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/zhang2023black.html">bibtex</a>
 
 </div>
 </div>
