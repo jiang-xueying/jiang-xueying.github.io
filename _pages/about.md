@@ -124,11 +124,11 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 <span class='anchor' id='service'></span>
 # 💻 Service
 ## Conference Reviewer
-- Reviewer of CVPR 2024, ECCV 2024, MM 2024
+- CVPR, ECCV, NeurIPS, MM
 
 
 ## Journal Reviewer
-- Reviewer of IEEE TCSVT
+- IEEE TCSVT
 
 
 <span class='anchor' id='teaching'></span>
