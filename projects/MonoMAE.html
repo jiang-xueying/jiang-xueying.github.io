@@ -242,6 +242,7 @@
 							<img class="round" style="width:800px" src="images/MonoMAE/overall_architecture.jpg" alt="Overall Framework of MonoMAE"/>
 							<figcaption><span style="font-size:18px">Overall Framework of MonoMAE.</span></figcaption>
 						</figure>
+						<br>
 						<figure>
 							<img class="round" style="width:800px" src="images/MonoMAE/depth_aware_masking.jpg" alt="Illustration of the Depth-Aware Masking"/>
 							<figcaption><span style="font-size:18px">Illustration of the Depth-Aware Masking.</span></figcaption>
@@ -253,93 +254,19 @@
 
 	<hr>
 
-		<div style="text-align: center;">
-		<center><h1><span style="font-size:24px">Experiments</span></h1></center>
-			<table border="1" style="margin: auto">
-				<center>
-				<thead>
-					<tr>
-						<th>Model</th>
-						<th>#Tuning Sample</th>
-						<th>WHU (IoU&uarr;)</th>
-						<th>Kvasir (mIoU&uarr;)</th>
-						<th>SBU-Shadow (BER&darr;)</th>
-						<th>JSRT (mIoU&uarr;)</th>
-						<th>FLS (mIoU&uarr;)</th>
-						<th>HRSID (AP&uarr;)</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>SAM</td>
-						<td>-</td>
-						<td>43.5</td>
-						<td>79.0</td>
-						<td>62.4</td>
-						<td>78.5</td>
-						<td>69.7</td>
-						<td>38.2</td>
-					</tr>
-					<tr>
-						<td>CAT-SAM-T</td>
-						<td rowspan="2">1-shot</td>
-						<td>86.8</td>
-						<td>83.4</td>
-						<td>78.0</td>
-						<td>93.0</td>
-						<td>N/A</td>
-						<td>46.2</td>
-					</tr>
-					<tr>
-						<td>CAT-SAM-A</td>
-						<td>88.2</td>
-						<td>85.4</td>
-						<td>81.9</td>
-						<td>92.6</td>
-						<td>N/A</td>
-						<td>44.9</td>
-					</tr>
-					<tr>
-						<td>CAT-SAM-T</td>
-						<td rowspan="2">16-shots</td>
-						<td>89.6</td>
-						<td>93.1</td>
-						<td>4.04</td>
-						<td>94.2</td>
-						<td>73.2</td>
-						<td>46.2</td>
-					</tr>
-					<tr>
-						<td>CAT-SAM-A</td>
-						<td>90.3</td>
-						<td>93.6</td>
-						<td>3.80</td>
-						<td>93.5</td>
-						<td>71.4</td>
-						<td>45.7</td>
-					</tr>
-					<tr>
-						<td>CAT-SAM-T</td>
-						<td rowspan="2">Full-shots</td>
-						<td>93.3</td>
-						<td>94.5</td>
-						<td>2.54</td>
-						<td>94.4</td>
-						<td>81.7</td>
-						<td>51.4</td>
-					</tr>
-					<tr>
-						<td>CAT-SAM-A</td>
-						<td>93.6</td>
-						<td>94.3</td>
-						<td>2.39</td>
-						<td>94.6</td>
-						<td>82.0</td>
-						<td>52.9</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
+		<table align="center" width="1000px">
+			<center><h1><span style="font-size:24px">Experiments</span></h1></center>
+			<tr>
+				<td width="1000px">
+					<center>
+						<figure>
+							<img class="round" style="width:800px" src="images/MonoMAE/experimental_results.jpg" alt="Experimental Results"/>
+							<figcaption><span style="font-size:18px">Benchmarking on the KITTI 3D test set.</span></figcaption>
+						</figure>
+					</center>
+				</td>
+			</tr>
+		</table>
 
 	<hr>
 
