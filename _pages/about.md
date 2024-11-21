@@ -35,7 +35,7 @@ My research interests include computer vision and deep learning, especially in t
 
 [//]: # (----------- Preprint 2024 -------------------------)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Preprint24_Multimodal.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Preprint24_Multimodal.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal 3D Reasoning Segmentation with Complex Scenes]()
