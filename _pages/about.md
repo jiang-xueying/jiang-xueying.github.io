@@ -24,6 +24,7 @@ My research interests include computer vision and deep learning, especially in t
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.09*: One paper is accepted by <b>NeurIPS 2024!</b>
 - *2024.02*: One paper is accepted by <b>CVPR 2024!</b>
 - *2024.01*: One paper is accepted by <b>ICLR 2024!</b>
 - *2023.07*: Two papers are accepted by <b>ICCV 2023!</b>
@@ -31,6 +32,25 @@ My research interests include computer vision and deep learning, especially in t
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
+
+[//]: # (----------- NeurIPS 2024 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS24_Monomae.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders](https://arxiv.org/pdf/2405.07696) 
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+<u><b>Xueying Jiang</b></u>, Sheng Jin, Xiaoqin Zhang, Ling Shao, Shijian Lu
+
+<i>NeurIPS, 2024</i>
+
+<a href="https://arxiv.org/pdf/2405.07696">paper</a> 
+/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jiang2024weakly.html">bibtex</a>
+
+</div>
+</div>
 
 [//]: # (----------- CVPR 2024 -------------------------)
 
