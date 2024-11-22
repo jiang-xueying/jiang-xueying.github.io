@@ -173,7 +173,7 @@
         </center>
         <div class="level-set has-text-justified">
           <p>
-             Finetuning the video diffusion model on the input video alone limits the extent of motion change. Instead, we use a mixed objective that beside the original objective (bottom left) also finetunes on the unordered set of frames. This is done by using “masked temporal attention”, preventing the temporal attention and convolution from being finetuned (bottom right). This allows adding motion to a static video.
+             The framework of MonoMAE training: Given a single-view image, the 3D Backbone extracts 3D object query features which are grouped into non-occluded query features and occluded query features by the Non-Occluded Query Grouping. The Depth-Aware Masking then masks the non-occluded query features to simulate object occlusions adaptively based on the object depth, and the Completion Network then learns to reconstruct the masked queries. Finally, the completed and the occluded query features are concatenated to train the 3D Detection Head for 3D predictions.
           </p>
         </div>
       </div>
