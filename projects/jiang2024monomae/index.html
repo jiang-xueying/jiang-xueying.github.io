@@ -162,6 +162,25 @@
 </section>
 <!-- End paper abstract -->
 
+<section class="section hero is-small is-light">
+<div class="container is-max-desktop">
+  <div class="columns is-centered">
+    <div class="column is-full">
+      <div class="content">
+        <h2 class="title is-3">Method Overview: Overall Framework of MonoMAE</h2>
+        <center>
+        <img src="static/images/overall_architecture.png" alt="Overall Framework of MonoMAE." class="center-image blend-img-background"/>
+        </center>
+        <div class="level-set has-text-justified">
+          <p>
+             Finetuning the video diffusion model on the input video alone limits the extent of motion change. Instead, we use a mixed objective that beside the original objective (bottom left) also finetunes on the unordered set of frames. This is done by using “masked temporal attention”, preventing the temporal attention and convolution from being finetuned (bottom right). This allows adding motion to a static video.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
 
 <!-- Image carousel -->
 <section class="hero is-small">
