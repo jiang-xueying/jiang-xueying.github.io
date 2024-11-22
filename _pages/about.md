@@ -49,7 +49,7 @@ My research interests include computer vision and deep learning, especially in t
 <a href="https://arxiv.org/abs/2411.13927">paper</a> 
 / <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jiang2024multimodal.html">bibtex</a>
 / <a href="">code</a>
-/ <a href="">project page</a>
+/ <a href="https://jxy04250.github.io/projects/jiang2024multimodal">project page</a>
 
 </div>
 </div>
@@ -69,6 +69,7 @@ My research interests include computer vision and deep learning, especially in t
 
 <a href="https://arxiv.org/pdf/2405.07696">paper</a> 
 / <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jiang2024monomae.html">bibtex</a>
+/ <a href="https://jxy04250.github.io/projects/jiang2024monomae">project page</a>
 
 </div>
 </div>
