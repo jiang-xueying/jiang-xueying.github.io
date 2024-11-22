@@ -47,7 +47,7 @@ My research interests include computer vision and deep learning, especially in t
 <i>Preprint, 2024</i>
 
 <a href="https://arxiv.org/abs/2411.13927">paper</a> 
-/ <a href="">bibtex</a>
+/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jiang2024multimodal.html">bibtex</a>
 / <a href="">code</a>
 / <a href="">project page</a>
 
