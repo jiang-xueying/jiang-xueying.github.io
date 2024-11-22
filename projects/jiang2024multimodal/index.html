@@ -179,7 +179,7 @@
 <div class="columns is-centered">
   <div class="column is-full">
     <div class="content">
-      <h2 class="title is-3">Method Overview: Overall Framework of MORE3D</h2>
+      <h2 class="title is-3">ReasonSeg3D Dataset Generation</h2>
       <center>
       <img src="static/images/dataset_generation_pipeline.jpg" alt="Illustration of the prompt template in our dataset generation." class="center-image blend-img-background"/>
       </center>
@@ -199,18 +199,38 @@
   <div class="columns is-centered">
     <div class="column is-full">
       <div class="content">
-        <h2 class="title is-3">ReasonSeg3D Dataset Generation</h2>
+        <h2 class="title is-3">Method Overview: Overall Framework of MORE3D</h2>
         <center>
-        <img src="static/images/overall_architecture.jpg" alt="Illustration of the prompt template in our dataset generation." class="center-image blend-img-background"/>
+        <img src="static/images/overall_architecture.jpg" alt="Overview of our proposed MORE3D." class="center-image blend-img-background"/>
         </center>
         <div class="level-set has-text-justified">
           <p>
-             Overview of our proposed MORE3D: Given an input point cloud, the 3D Encoder first extracts per-point features $F_p$ and projects them into sequential features $F_s$. The sequential features $F_s$, together with the textual input $X_{que}$, are then fed into a multimodal LLM to perform reasoning, producing textual answers $\hat{Y}_{ans}$ with both detailed explanations and descriptions of 3D spatial relationships among multiple objects. Finally, embeddings for multiple \texttt{<SEG>} tokens and the per-point features are passed to the 3D Decoder to produce 3D segmentation masks and classification results. The module marked with a snowflake icon is frozen during training, while those marked with a flame icon are trainable.
+             Overview of our proposed MORE3D.
           </p>
         </div>
       </div>
     </div>
   </div>
+</div>
+</section>
+
+<section class="section is-small">
+<div class="container is-max-desktop">
+<div class="columns is-centered">
+  <div class="column is-full">
+    <div class="content">
+      <h2 class="title is-3">Multi-Object 3D Reasoning Segmentation</h2>
+      <center>
+      <img src="static/images/object_specific_feature_extraction.jpg" alt="Extraction of object-specific point cloud embeddings." class="center-image blend-img-background"/>
+      </center>
+      <div class="level-set has-text-justified">
+        <p>
+           Extraction of object-specific point cloud embeddings. Each predicted textual answer contains multiple <SEG> tokens, with their positions recorded in a multi-segment index list $I_{seg}$. The LLM embedding corresponding to each <SEG> token is extracted based on the multi-segment index list for obtaining object-specific point cloud embeddings.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 </div>
 </section>
 
