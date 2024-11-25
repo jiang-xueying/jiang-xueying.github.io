@@ -47,10 +47,10 @@ My research interests include computer vision and deep learning, especially in t
 <i>Preprint, 2024</i>
 
 <a href="https://arxiv.org/abs/2411.13927">paper</a> 
-/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jiang2024multimodal.html">bibtex</a>
+/ <a href="https://raw.githubusercontent.com/jiang-xueying/jiang-xueying.github.io/main/bibtex/jiang2024multimodal.html">bibtex</a>
 / <a href="">code</a>
 / <a href="">dataset</a>
-/ <a href="https://jxy04250.github.io/projects/jiang2024multimodal/index">project page</a>
+/ <a href="https://jiang-xueying.github.io/projects/jiang2024multimodal/index">project page</a>
 
 </div>
 </div>
@@ -69,8 +69,8 @@ My research interests include computer vision and deep learning, especially in t
 <i>NeurIPS, 2024</i>
 
 <a href="https://arxiv.org/pdf/2405.07696">paper</a> 
-/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jiang2024monomae.html">bibtex</a>
-/ <a href="https://jxy04250.github.io/projects/jiang2024monomae/index">project page</a>
+/ <a href="https://raw.githubusercontent.com/jiang-xueying/jiang-xueying.github.io/main/bibtex/jiang2024monomae.html">bibtex</a>
+/ <a href="https://jiang-xueying.github.io/projects/jiang2024monomae/index">project page</a>
 
 </div>
 </div>
@@ -89,7 +89,7 @@ My research interests include computer vision and deep learning, especially in t
 <i>CVPR, 2024</i>
 
 <a href="https://arxiv.org/pdf/2402.19144v1.pdf">paper</a> 
-/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jiang2024weakly.html">bibtex</a>
+/ <a href="https://raw.githubusercontent.com/jiang-xueying/jiang-xueying.github.io/main/bibtex/jiang2024weakly.html">bibtex</a>
 
 </div>
 </div>
@@ -110,7 +110,7 @@ Sheng Jin, <u><b>Xueying Jiang</b></u>, Jiaxing Huang, Lewei Lu, Shijian Lu
 <i>ICLR, 2024</i>
 
 <a href="https://arxiv.org/pdf/2402.04630.pdf">paper</a> 
-/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jin2024llms.html">bibtex</a>
+/ <a href="https://raw.githubusercontent.com/jiang-xueying/jiang-xueying.github.io/main/bibtex/jin2024llms.html">bibtex</a>
 
 </div>
 </div>
@@ -130,7 +130,7 @@ Sheng Jin, <u><b>Xueying Jiang</b></u>, Jiaxing Huang, Lewei Lu, Shijian Lu
 <i>ICCV, 2023</i>
 
 <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Domain_Generalization_via_Balancing_Training_Difficulty_and_Model_Capability_ICCV_2023_paper.pdf">paper</a> 
-/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/jiang2023domain.html">bibtex</a>
+/ <a href="https://raw.githubusercontent.com/jiang-xueying/jiang-xueying.github.io/main/bibtex/jiang2023domain.html">bibtex</a>
 
 </div>
 </div>
@@ -150,7 +150,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 <i>ICCV, 2023</i>
 
 <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Black-Box_Unsupervised_Domain_Adaptation_with_Bi-Directional_Atkinson-Shiffrin_Memory_ICCV_2023_paper.pdf">paper</a> 
-/ <a href="https://raw.githubusercontent.com/Jxy04250/Jxy04250.github.io/main/bibtex/zhang2023black.html">bibtex</a>
+/ <a href="https://raw.githubusercontent.com/jiang-xueying/jiang-xueying.github.io/main/bibtex/zhang2023black.html">bibtex</a>
 
 </div>
 </div>
