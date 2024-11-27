@@ -160,7 +160,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 <span class='anchor' id='education'></span>
 
 # 📖 Education
-- *2022.08 - Present:* Doctor of Philosophy, School of Computer Science and Engineering, Nanyang Technological University
+- *2022.08 - Present:* Doctor of Philosophy, S-Lab, College of Computing and Data Science, Nanyang Technological University
 - *2018.09 - 2022.07:* Bachelor in Intelligence Science and Technology, School of Electronics Engineering and Computer Science, Peking University
 
 
