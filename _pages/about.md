@@ -167,7 +167,7 @@ Jingyi Zhang, Jiaxing Huang, <u><b>Xueying Jiang</b></u>, Shijian Lu
 <span class='anchor' id='service'></span>
 # 💻 Service
 ## Conference Reviewer
-- CVPR, ECCV, NeurIPS, ICLR, ICML, MM, ACCV
+- CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, MM, ACCV
 
 
 ## Journal Reviewer
